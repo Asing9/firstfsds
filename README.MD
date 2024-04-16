@@ -34,7 +34,10 @@ python setup.py install
 pip install -r requirements.txt
 ```
 '''
+install local packate
 pip install.
+-e.
+setup.py
 
 pip install -r requirements.txt
 
